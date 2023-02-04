@@ -1,0 +1,23 @@
+/*
+.container{
+margin-top: 25px;
+}
+*/
+
+.banner{
+    background-color: lightcoral;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 50px;
+}
+
+.banner-text{
+top: 13%;
+left: 45%;
+position: Absolute;
+transform: transform;
+}
+
+.app-header{
+color: white;
+}
